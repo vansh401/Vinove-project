@@ -41,6 +41,7 @@ pip install psutil
 ```
 
 Project Structure
+* The project is organized into the following structure for clarity and easy navigation:
 ```bash
 Vinove-project-main/
 ├── README.md
