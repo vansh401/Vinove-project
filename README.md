@@ -11,7 +11,10 @@ Key Features
 5. Error Handling: Robust error management for no internet connection, firewall issues, and more.
 6. Irregular Input Tracking: Captures and logs irregular mouse movements and keyboard inputs
 
-## Installation
+## Installation Guide
+Follow these steps to set up and run the Activity Tracker on your local machine:
+
+
 
 1 - Install virtualenv
 
