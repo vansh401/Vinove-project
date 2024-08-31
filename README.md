@@ -1,4 +1,4 @@
-Activity Tracker 
+### Activity Tracker 
 
 This project is an advanced, background-running Activity Tracker designed for comprehensive monitoring of user activities. It intelligently distinguishes between genuine user interactions and scripted emulators, adapts to time zone changes, and ensures seamless operation in various scenarios, including low battery, no internet connection, and firewall restrictions. Additionally, it tracks irregular mouse and keyboard inputs, ensuring accurate data capture and robust error handling.
 
