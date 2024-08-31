@@ -1,6 +1,15 @@
 Activity Tracker 
 
-This project is an advanced activity tracker designed to run in the background, monitoring and capturing user activities. It differentiates between genuine user inputs and script-based activity emulators, tracks time zone changes, handles low battery situations, and provides robust error handling for scenarios like no internet connection and firewall restrictions. It also handles irregular mouse movements and keyboard inputs .
+This project is an advanced, background-running Activity Tracker designed for comprehensive monitoring of user activities. It intelligently distinguishes between genuine user interactions and scripted emulators, adapts to time zone changes, and ensures seamless operation in various scenarios, including low battery, no internet connection, and firewall restrictions. Additionally, it tracks irregular mouse and keyboard inputs, ensuring accurate data capture and robust error handling.
+
+Key Features
+
+1. Real-Time Activity Monitoring: Seamlessly tracks user activity in the background.
+2. Genuine vs. Scripted Detection: Differentiates between real user inputs and automated scripts.
+3. Time Zone Adaptability: Handles time zone changes dynamically.
+4. Low Battery Management: Monitors battery status and adapts performance accordingly.
+5. Error Handling: Robust error management for no internet connection, firewall issues, and more.
+6. Irregular Input Tracking: Captures and logs irregular mouse movements and keyboard inputs
 
 ## Installation
 
